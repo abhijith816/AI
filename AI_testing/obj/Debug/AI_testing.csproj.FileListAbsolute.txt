@@ -1,0 +1,9 @@
+C:\Users\Abhijith\Documents\Visual Studio 2013\Projects\AI1\AI_testing\AI_testing\bin\Debug\AI_testing.exe.config
+C:\Users\Abhijith\Documents\Visual Studio 2013\Projects\AI1\AI_testing\AI_testing\obj\Debug\AI_testing.csprojResolveAssemblyReference.cache
+C:\Users\Abhijith\Documents\Visual Studio 2013\Projects\AI1\AI_testing\AI_testing\obj\Debug\AI_testing.Properties.Resources.resources
+C:\Users\Abhijith\Documents\Visual Studio 2013\Projects\AI1\AI_testing\AI_testing\obj\Debug\AI_testing.csproj.GenerateResource.Cache
+C:\Users\Abhijith\Documents\Visual Studio 2013\Projects\AI1\AI_testing\AI_testing\bin\Debug\AI_testing.exe
+C:\Users\Abhijith\Documents\Visual Studio 2013\Projects\AI1\AI_testing\AI_testing\bin\Debug\AI_testing.pdb
+C:\Users\Abhijith\Documents\Visual Studio 2013\Projects\AI1\AI_testing\AI_testing\obj\Debug\AI_testing.exe
+C:\Users\Abhijith\Documents\Visual Studio 2013\Projects\AI1\AI_testing\AI_testing\obj\Debug\AI_testing.pdb
+C:\Users\Abhijith\Documents\Visual Studio 2013\Projects\AI1\AI_testing\AI_testing\obj\Debug\AI_testing.Form1.resources
